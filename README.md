@@ -1,4 +1,15 @@
-# Android Wear - Watch Face App Development Guide
+I started off my weather watch off SWARM and devsops watch faces. 
+I use two watches.  LG G and Gear Live.  
+
+
+
+
+
+=============================================================================================================================
+
+
+
+Android Wear - Watch Face App Development Guide
 
 This is a basic framework we used to build the SWARM watach faces in the Google Play store, if you'd like to roll your own Watch Face. <br>
 
