@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="Theme.Base" parent="android:Theme.DeviceDefault.Light.DarkActionBar" />
+
+    <style name="AppTheme" parent="Theme.Base" >
+    </style>
+
+</resources>
